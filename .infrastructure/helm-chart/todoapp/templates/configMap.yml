@@ -5,3 +5,4 @@ metadata:
   namespace: {{ .Values.todoapp.namespace.name }}
 data:
   PYTHONUNBUFFERED: "1"
+

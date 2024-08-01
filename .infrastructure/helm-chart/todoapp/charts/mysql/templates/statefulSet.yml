@@ -91,3 +91,4 @@ spec:
       resources:
         requests:
           storage: {{ .Values.mysql.statefulSet.pvc }}
+

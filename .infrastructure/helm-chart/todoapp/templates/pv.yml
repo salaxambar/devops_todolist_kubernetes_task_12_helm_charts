@@ -12,3 +12,4 @@ spec:
     storage: {{ .Values.todoapp.pv.capacity.storage }}
   hostPath:
     path: /data/
+
